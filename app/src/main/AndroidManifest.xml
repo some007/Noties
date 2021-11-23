@@ -14,12 +14,12 @@
         android:theme="@style/Theme.Noties"
         tools:targetApi="31">
         <activity
-            android:name=".CreateNoteActivity"
+            android:name=".activities.CreateNoteActivity"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateHidden"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name=".activities.MainActivity"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateHidden"
             android:exported="true">

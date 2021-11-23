@@ -1,4 +1,4 @@
-package com.example.noties;
+package com.example.noties.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -6,6 +6,8 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.ImageView;
+
+import com.example.noties.R;
 
 public class MainActivity extends AppCompatActivity {
      public static final int REQUEST_CODE_ADD_NOTE = 1;
