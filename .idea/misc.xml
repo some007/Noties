@@ -5,10 +5,12 @@
       <map>
         <entry key="..\:/Users/user/AndroidStudioProjects/Noties/app/src/main/res/drawable-v24/background_done_button.xml" value="0.1935" />
         <entry key="..\:/Users/user/AndroidStudioProjects/Noties/app/src/main/res/drawable/background_add_button.xml" value="0.1935" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Noties/app/src/main/res/drawable/background_note.xml" value="0.1935" />
         <entry key="..\:/Users/user/AndroidStudioProjects/Noties/app/src/main/res/drawable/background_search.xml" value="0.1935" />
         <entry key="..\:/Users/user/AndroidStudioProjects/Noties/app/src/main/res/drawable/background_subtitle_indicator.xml" value="0.1935" />
         <entry key="..\:/Users/user/AndroidStudioProjects/Noties/app/src/main/res/layout/activity_create_note.xml" value="0.21041666666666667" />
         <entry key="..\:/Users/user/AndroidStudioProjects/Noties/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Noties/app/src/main/res/layout/item_container_note.xml" value="0.2234375" />
       </map>
     </option>
   </component>
